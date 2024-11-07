@@ -1,0 +1,9 @@
+{
+	"name": "himudp203datafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3f6692f9-fa25-4062-b2d6-9edeba99e388",
+		"tenantId": "4ddd393a-e98a-4404-841f-c4becdd925a5"
+	}
+}
